@@ -1,4 +1,4 @@
-# BashScripting
+# Shell scripting
 Basic bash scripts examples for beginners to get started.
 
 Topics Include: 
